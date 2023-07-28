@@ -1,0 +1,43 @@
+header {
+    background-color: rgba(4, 4, 151, 0.827);
+    display: flex;
+    justify-content: space-around;
+}
+
+.text-icon {
+    color: aliceblue;
+    font-size: 50px;
+   
+}
+.Facebook{
+    padding: 20px;
+}
+
+.header1 {
+    color: aliceblue;
+    padding-top: 20px;
+    display: flex;
+}
+
+.login-item {
+    flex-direction: column;
+    display: flex;
+    padding-bottom: 20px;
+    margin-right: 20px;
+}
+
+.login-item2 {
+    padding-top: 15px;
+
+}
+
+.login-item2 button {
+    background-color:rgba(4, 4, 151, 0.827);
+    color: aliceblue;
+}
+.body{
+  display: flex;
+  flex-direction: column;
+  width: 500px;
+  
+}
